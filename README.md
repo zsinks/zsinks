@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SOC + Environment Practice (Azure)</b>
-  - [Building a SOC + Honet in Azure (Live Traffic)]()
+  - [Building a SOC + Honet in Azure (Live Traffic)](https://github.com/zsinks/Azure-SOC)
 
 <h2> 🤳 Connect with me:</h2>
 
