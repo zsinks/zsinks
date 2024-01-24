@@ -1,6 +1,6 @@
 <h1>Hi, I'm Zac! <br/> A <a href="https://www.linkedin.com/in/zacharysinks/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SOC + Environment Practice (Azure)</b>
   - [Building a SOC + Honet in Azure (Live Traffic)]()
